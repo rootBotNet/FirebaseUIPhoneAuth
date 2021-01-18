@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697470502452",
+    "project_id": "fir-uiphoneauth-34f79",
+    "storage_bucket": "fir-uiphoneauth-34f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697470502452:android:63fb0b702c059fc51fac61",
+        "android_client_info": {
+          "package_name": "com.example.firebaseuiphoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697470502452-m7824r698adg7u52l7f9u9evhurpfjb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrtB0IUPCe1HqdyHDE5KfdI_puv3RlqIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697470502452-m7824r698adg7u52l7f9u9evhurpfjb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
